@@ -11,6 +11,8 @@ Proxy server in Python
 </p>
 
 🧸💬 Communication development in micro-services allowed the deployment of a proxy-load balance mechanism that creates an efficient way of communication, all information needs to route to a specific endpoint with correct order and monitoring, in our example, it implements an access list by their request allowance to access the correct service without know of path and IP-address when implementing translators as commercial proxy server. <br>
+🐑💬 ➰ This code supports many protocols because it works atthe  socket layer, HTTP, Winsock, wscp, TCP, UDP, and printout log for monitoring. By request you can filter of incoming messages by rules as desired from your Python programming language and map to the target destination, moreover, you can evaluate incoming messages by statistics and treads them with suitable action performed. One method to find third-party communication messages and deny or block them without access to the  server in the backend system, access list, and dynamic access list can be developed from the endpoint and table access list because even if they use the same IP address they will need intentional action such as gathering service information should perform by sequence and some information is unique identification.<br>   
+🦭💬 Unique identification information such as client id, robot id, and asset ID cannot be gathered in one place but a sequence of information requests and correct response order need to be performed. You can develop dynamic access list at the proxy gateway. Still, it needs to be a powerful machine with advanced searching algorithms where information is ready development can be performed even AI from data input. </br>
 
 ## Codings exameple
 ```
