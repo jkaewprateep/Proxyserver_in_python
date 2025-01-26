@@ -10,6 +10,7 @@ Proxy server in Python
     <b> ( Picture from Internet ) </b> </br>
 </p>
 
+🧸💬 Communication development in micro-services allowed the deployment of a proxy-load balance mechanism that creates an efficient way of communication, all information needs to route to a specific endpoint with correct order and monitoring, in our example, it implements an access list by their request allowance to access the correct service without know of path and IP-address when implementing translators as commercial proxy server. <br>
 
 ## Codings exameple
 ```
